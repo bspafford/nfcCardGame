@@ -1,0 +1,1 @@
+This is my card game. I developed it using Unreal Engine 5. The premise of the game is to load in cards using physical NFC cards and a reader. Then once the card is scanned it will be loaded into the battle area. Currently it is a PvP game, where the other player can also connect through a server.
